@@ -1,0 +1,15 @@
+Project 1: Azure Virtual Machine Deployment
+
+Description:
+Created a virtual machine in Microsoft Azure.
+
+Details:
+- Resource Group: friendRG
+- Virtual Machine Name: friendVM
+- Region: East US
+- Operating System: Ubuntu Linux
+- Size: B1s (Free Tier)
+- Access Method: SSH
+
+Outcome:
+Successfully deployed and accessed the virtual machine.
